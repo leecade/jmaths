@@ -24,11 +24,11 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "devDependencies": {
-    "mocha": "2.0.1",
-    "should": "4.1.0",
-    "uglify-js": "2.4.15",
-    "jdists": "0.1.10",
-    "jshint": "2.5.8"
+    "mocha": "3.1.2",
+    "should": "11.1.1",
+    "uglify-js": "2.7.4",
+    "jdists": "1.4.1",
+    "jshint": "2.9.4"
   },
   "scripts": {
   	"test": "mocha -R spec && npm run coverage",
